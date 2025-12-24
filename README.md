@@ -22,6 +22,50 @@
 
 **CIRCUIT DIAGRAM:**
 
+
+
+
+<img width="371" height="311" alt="image" src="https://github.com/user-attachments/assets/f9a31222-af45-49db-9d9d-241c612460b2" />
+
+
+
+
+
+
+**TABULATION:**
+
+
+
+
+
+
+<img width="405" height="208" alt="image" src="https://github.com/user-attachments/assets/198b854f-932b-43c8-9df0-8acc88bd9f7b" />
+
+
+
+
+**CALCULATION:**
+
+
+
+
+<img width="422" height="495" alt="image" src="https://github.com/user-attachments/assets/1913c200-5a36-4e59-8005-6d41a9ca7daa" />
+
+
+
+
+
+<img width="363" height="327" alt="image" src="https://github.com/user-attachments/assets/7e632f15-7310-4b03-8e5d-e40aded2faea" />
+
+
+
+
+
+
+
+
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
